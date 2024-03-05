@@ -1,4 +1,3 @@
-# ImpactOfFactorsOnSalaries-RAnalysis
 ## Analiza Wynagrodzeń w R z wykorzystaniem Databricks
 
 ### Opis Projektu
